@@ -6,6 +6,12 @@ The prediction model, trained on the classic Boston Housing dataset, is serializ
 
 Through the Streamlit interface, users are empowered to interactively manipulate parameters and acquire real-time housing price predictions. This project exemplifies a streamlined method to bring a machine learning model to life within a web application, making it an ideal reference for educational objectives, swift prototyping, or as groundwork for more complex implementations.
 
+## Tech Stack Used in the Project
+- **Python**: A powerful and versatile programming language, serving as the backbone for the entire project. Its wide range of libraries and community support makes it an ideal choice for this application.
+- **Streamlit**: An open-source Python library that simplifies the creation of web apps for machine learning and data science projects. It enables the seamless integration of Python code with a user-friendly web interface.
+- **Docker**: A platform used to package, distribute, and run applications. Docker encapsulates the application and its environment, ensuring consistency across different development and deployment stages.
+
+
 ## Prerequisites
 
 Before running the application, ensure Docker is installed on your system. You can download and install Docker from [Docker's official website](https://www.docker.com/products/docker-desktop).
